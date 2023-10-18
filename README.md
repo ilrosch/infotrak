@@ -1,4 +1,4 @@
-# infotrek
+# InfoTrek website
 Adaptive layout of website InfoTrek (html, css, js)
 
 ## Desktop website version
